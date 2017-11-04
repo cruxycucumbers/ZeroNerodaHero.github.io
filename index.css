@@ -1,3 +1,9 @@
-.base{
-  background-image=url(res/NeroDaHeroBkground.jpg);
+footer{
+  align = "center"
 }
+
+.base{
+  background="res/NeroDaHeroBkground.jpg";
+}
+
+
