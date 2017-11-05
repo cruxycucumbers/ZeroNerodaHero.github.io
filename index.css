@@ -3,7 +3,7 @@ footer{
 }
 
 .base{
-  background="res/NeroDaHeroBkground.jpg";
+  background-image: url("NeroDaHeroBkground.jpg")
 }
 
 
