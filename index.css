@@ -6,4 +6,7 @@ footer{
   background-image: url("/res/NeroDaHeroBkground.jpg");
 }
 
-
+.text{
+  color: #ffffff
+  background-color: #000000 
+}
