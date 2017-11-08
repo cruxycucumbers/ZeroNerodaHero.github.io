@@ -7,14 +7,12 @@ footer{
 }
 
 .text{
-  display: block;
   color: #ffffff;
   background-color: #000000;
 }
 
 .navbar{
   position: fixed;
-  padding: 10px 12px;
   font-size: 250%; 
   color: #ffffff;
   background-color: #000000;
