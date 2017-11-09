@@ -18,6 +18,7 @@ footer{
   font-size: 150%; 
   overflow: hidden;
   background-color: #333;
+  border-width: thin;
   top: 0;
   width: 100%;
 }
